@@ -1,6 +1,6 @@
-# Analyze A/B test results project
+# Investigate a Dataset Project
 
-Project 4 in the Udacity Data Analyst Nanodegree.
+Project 2 in the Udacity Data Analyst Nanodegree.
 
 ## Project description
 
